@@ -18,7 +18,8 @@
             "name":"sdktools",
             "releases":[
                 "https://github.com/TheYIMIR/SDKTools/releases/download/v1.2.0/SDKTools-v1.2.0.zip",
-                "https://github.com/TheYIMIR/SDKTools/releases/download/v1.3.0/SDKTools-1.3.0.unitypackage"
+                "https://github.com/TheYIMIR/SDKTools/releases/download/v1.3.0/SDKTools-1.3.0.unitypackage",
+                "https://github.com/TheYIMIR/SDKTools/releases/download/v2.0.0/sdktools-2.0.0.unitypackage"
             ]
         }
     ]
