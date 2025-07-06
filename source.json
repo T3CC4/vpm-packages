@@ -1,15 +1,15 @@
 {
-    "name":"YIMIR's SDK Packages ",
-    "id":"de.yimir.sdkpackages",
+    "name":"T3CC4's SDK Packages ",
+    "id":"de.t3cc4.sdkpackages",
     "url":"https://T3CC4.github.io/vpm-packages/index.json",
     "author":{
         "email":"theyimir@gmail.com",
-        "name":"YIMIR",
+        "name":"T3CC4",
         "url":"https://discordapp.com/users/815936563962839080"
     },
-    "description":"All of YIMIR's SDK packages",
+    "description":"All of T3CC4's SDK packages",
     "infoLink":{
-        "url":"https://github.com/TheYIMIR/vpm-packages",
+        "url":"https://github.com/T3CC4/vpm-packages",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
