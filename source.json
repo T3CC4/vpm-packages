@@ -18,7 +18,8 @@
             "name":"sdktools",
             "releases":[
                 "https://github.com/T3CC4/SDKTools/releases/download/v1.2.0/SDKTools-v1.2.0.zip",
-                "https://github.com/T3CC4/SDKTools/releases/download/v2.0.0/SDKTools-2.0.0.zip"
+                "https://github.com/T3CC4/SDKTools/releases/download/v2.0.0/SDKTools-2.0.0.zip",
+                 "https://github.com/T3CC4/SDKTools/releases/download/v2.0.1/SDKTools-2.0.1.zip"
             ]
         }
     ]
